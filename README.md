@@ -8,7 +8,7 @@ The application ASU chatbot addresses the commonly asked questions of ASU studen
 
 ### Architecture
 
-![Architecture of ASU Chatbot](arch.png)
+![Architecture of ASU Chatbot](arch.PNG)
 
 The architecture of the ASU Chatbot system consists of the important Natural Language component which is the Dialogflow model, a Web platform, an Android platform, as well as a Speech platform for users to input their questions. The input questions are the frequently asked questions about ASU. The response is obtained from the Dialogflow model.
 
